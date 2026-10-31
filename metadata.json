@@ -1,0 +1,6 @@
+{
+  "name": "Orvo One - Test Series & Exam Prep",
+  "description": "Minimal, high-quality test series platform for SSC and Railway exams with CBT mocks, mistake book, rapid practice, oc coins, and performance analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
